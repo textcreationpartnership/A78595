@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of the Rump.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78595</idno>
+            <idno type="STC">Wing C2027</idno>
+            <idno type="STC">Thomason E1017_20</idno>
+            <idno type="STC">ESTC R208001</idno>
+            <idno type="EEBO-CITATION">99867008</idno>
+            <idno type="PROQUEST">99867008</idno>
+            <idno type="VID">168822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168822)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of the Rump.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 17. 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168822:1" rendition="simple:additions"/>
+            <p>THE CHARACTER OF THE RUMP.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb facs="tcp:168822:2"/>
+            <pb n="1" facs="tcp:168822:2"/>
+            <head>
+               <hi>The Character of the</hi> RUMP.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Rump is the hinder part of the many-head<g ref="char:EOLhyphen"/>ed Beaſt, the Back-door of the <hi>Devils Arſe</hi> a <hi>Peake,</hi> Tyranny and Rebellion end<g ref="char:EOLhyphen"/>ing in a Stink, the States <hi>Incubus,</hi> a Crab Commonwealth with the But end formoſt; 'tisa Town-ditch ſwelling above the walls, a Sink taking poſſeſſion of the whole Houſe, the Humours left behind after the ſubſtance of the Body politick is purg'd away by the devils potions, the Tumour of the Breech, <hi>Caninus A<g ref="char:EOLhyphen"/>petitus in Ano,</hi> the Epilogue grown greater then the Play, the Cloſe of the Will crept into the place of <hi>In nomine Dei Amen,</hi> the Whore of <hi>Babylon</hi> with her Arſe upwards, 'tis like a Comet which is all tail, and portends no leſſe miſchief, or you may call it the tail of the Great Dra<g ref="char:EOLhyphen"/>gon, and 'tis a Thumper, for the devils tail in Chaucer, being ſtuck in this, would look but like a maggot in a Tub of Tallow, and yet he ſaith
+<q>
+                  <l>
+                     <hi>That certainly Sathanas hath ſuch a Tail</hi>
+                  </l>
+                  <l>
+                     <hi>Broader then of a Pinnace is the Sail.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>If you would reach me the <hi>Aequator,</hi> or rather one of the Tropiques, I would give a ſhrewd gueſſe at its abominable bigneſſe; but 'tis beſt meaſured with the Sword, as there is one hath done it to my hands, Saint <hi>George</hi> kill'd the Dragon, but <hi>George Monck</hi> kill'd the Dragons tail; 'tis pity to blurr this ſheet with its prodi<g ref="char:EOLhyphen"/>gious nature, unleſſe we mean to make it a winding<g ref="char:EOLhyphen"/>ſheet for their Rumpſhips, but that is needleſſe, for they have another Scene to act, under the Gallowes, it being juſt they ſhould corrupt the aire being dead, that made it their buſineſſe to oppreſſe the earth whileſt they were
+<pb n="2" facs="tcp:168822:3"/>living; Its mother is Rebellion, and the Devil its re<g ref="char:EOLhyphen"/>ported father, but the truth is, it owes its firſt being to the Pope, who that time made the Devil a Cuckold; Folly and Self-intereſt were its Nurſes, but the noble General <hi>Brown</hi> was its Godfather, 'tis obſerv'd that <hi>Pride</hi> firſt raiſ'd them, and Pride it was that gave them their firſt fall; when <hi>Noll,</hi> like an expert Mountebank gave them a Gliſter of <hi>Opium,</hi> which made the Speaker dumb, and (O wonder) kept Sir <hi>Arthurs</hi> everlaſting wag-tail'd tongue quiet, and put them all into a ſleep, which would have laſted till doomſ-day, if the ruſtling of a <hi>Lamb-beard</hi> had not awakened them, but they have had a nap ſince, and beſides that, the ſymptomes of death are now upon them, for by the violence of a <hi>Scotch</hi> potion they are become ſtark mad, and every day are about to deſtroy themſelves, the only Cordial which is left them is the hopes of a Commonwealth, and there can be no reſtorative, but an Army of Secta<g ref="char:EOLhyphen"/>ries; their phyſick hitherto hath bin only purging, but becauſe the matter of the diſeaſe is a Maſſe of earth, (Kings and others Lands) lying upon their conſciences) the noble <hi>Monck</hi> is providing them a Vomit, which with an <hi>Aymulett</hi> of Hemp to be tied about their necks, will render them perfectly cured, An ingenious perſon hath obſerved, that <hi>Scot</hi> is the Rumps man <hi>Thomas,</hi> and they might have ſaid to him when he was ſo buſie with the General,
+<q>
+                  <l>
+                     <hi>Peace for the Lords ſake</hi> Thomas, <hi>leaſt</hi> Monck <hi>take us,</hi>
+                  </l>
+                  <l>
+                     <hi>And drag us out as</hi> Hercules <hi>did</hi> Cacus.</l>
+               </q>
+            </p>
+            <p>But <hi>John Milton</hi> is their Gooſ-quill Champion, who had need of <hi>A Help meet</hi> to eſtabliſh any thing, for he has a Ramſhead, and is good only at Batteries, an old He<g ref="char:EOLhyphen"/>retick both in Religion and Manners, that by his will would ſhake off his Governours as he doth his Wives,
+<pb n="3" facs="tcp:168822:3"/>foure in a Fourtnight, the Sun-beams of his ſcandalous papers againſt the late Kings book, is the Parent that begot his late new Commonwealth, and becauſe he like a Paraſite as he is, by flattering the then tyrannical pow<g ref="char:EOLhyphen"/>er, hath run himſelf into the bryers, the man will be an<g ref="char:EOLhyphen"/>gry if the reſt of the Nation will not bear him compa<g ref="char:EOLhyphen"/>ny, and ſuffer themſelves to be decoyed into the ſame condition; he is ſo much an enemy to uſual practices, that I believe when he is condemned to travel to <hi>Ty<g ref="char:EOLhyphen"/>burn</hi> in a Cart, he will petition for the favour to be the firſt man that ever was driven thither in a <hi>Wheel-barrow;</hi> and now <hi>John</hi> you muſt ſtand cloſe and draw in your El<g ref="char:EOLhyphen"/>bows, that <hi>Needham</hi> the Commonwealths Didapper may have room to ſtand by you; this is a Mercury with a winged conſcience, the Skip-Jack of all fortunes, that like a Shittle-cock drive him which way you will, falls ſtill with the Cork end forwards: The Rumps Trumpe<g ref="char:EOLhyphen"/>ter being he that firſt found out the way to make a Fart ſound in Paper; A rare Fellow at funerall Orations, wit<g ref="char:EOLhyphen"/>neſſe his eloquent ſhreds in prayſe of that Devil incarnate King-killing <hi>Bradſhaw,</hi> a brazen face that dares lay his excrements under the Noſe of the whole World, and hath leſſe wit then the Country-man, who patting down his Breeches in the open Streets, turned his Buttocks to the Company, becauſe they were not ſo well known as his Face; he was one of the Spokes of <hi>Harringtons Rota,</hi> till he was turned out for cracking. As for <hi>Harrington</hi> he's but a demy-ſemy in the Rumps Muſick, and ſhould bee good at the Cymball, for he is all for wheeling Inſtru<g ref="char:EOLhyphen"/>ments, and having a good invention, may in time finde out the way to make a Conſort of Grind-Stones. He hath Oceans in his head, which if he take not heed will deluge his other Parts. He is no common Man, for ſuch
+<pb n="4" facs="tcp:168822:4"/>he ſayes can onely feele and not ſee, but the next ſummer he will ſee his Errours firſt, and then feele the ſmart of them, would any man in his witts (think he) renounc't his own preſent Intereſt, and poſſeſſion, to be at the curteſy of others for another Portion or Inheritance. The People of <hi>England</hi> have lived happyly even to the envy of others under Regall Government, they knew their own Rights, and Native Priviledges, ſhall they ſurren<g ref="char:EOLhyphen"/>der theſe, and cancel their preſent happyneſſe which they are ſure of, for the expectance of a better condition at the will and pleaſure of new Maſters, upon the onely ſecurity of Mr. <hi>Harringtons</hi> Romantick Commonwealth? that the new Senators will do all they can to keep the People in ſlavery, and to ſupport their owne Authority, is ſtrongly to be preſumed from the freſh example of the late Monopolizers at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> and if they ſhould doe ſo, what better re<g ref="char:EOLhyphen"/>medy have the free-borne people of <hi>England,</hi> then Mr. <hi>Harrington</hi> had againſt him, that ſay'd his <hi>Oceana</hi> was a Strumpet, he may know that if there were any inconve<g ref="char:EOLhyphen"/>nience (as no Government is perfect) yet it is prudence rather to ſuffer a Stone ill placed in the Foundation (though it be an eye-ſore) to lye unmoved then by en<g ref="char:EOLhyphen"/>deavouring to pluck it out, endanger the whole building. How many new Lawes have been made in this Nation, with full and deliberate adviſe of the three Eſtates for the benefit of the Common-wealth, when yet time and experience, the touchſtones of truth, have found them inconvenient afterwards, and given occaſion of their Repeale in ſubſequent Parliaments. Have not many men applauded themſelves with the beautifull fi<g ref="char:EOLhyphen"/>gure of a Houſe drawne in Paper, when the materiall building framed after the modell hath deluded their
+<pb n="5" facs="tcp:168822:4"/>hopes, and given Repentance in ſtead of Satisfaction? Surely Mr. <hi>Harrington</hi> did not copy any of his lines out of the Book of Fate, therefore there is no neceſſity but that it may be ſubject to the incidents of other projects, wherof not one in a thouſand but have engaged the un<g ref="char:EOLhyphen"/>takers in infinit more troubles and vexations, then were at firſt foreſeen. I ſhall ſay no more of him, but deſire him to recant in time, leaſt he be eſtemed hereafter but the Rump of a Polititian. The Rump had no mouth but that of their Speaker, which is not very big, but hath ſpoke a horrible deale of Treaſon in his dayes, Its Arms have extended through the whole three Nations, and at laſt whipt their own politick Breech, but I think it wants the propagating part ever ſince Noll Eunuch't it, ſo that no Rump can be borne ſuch, they muſt be framed by Art, and the receipt of their compoſition you will find in the following lines, copied from Sir <hi>Arthur Haſleriggs</hi> own Manuſcript,
+<q rend="italic">
+                  <l>Hew out a Statue from Mount <hi>Caucaſus,</hi>
+                  </l>
+                  <l>Big as the <hi>Coloſſe</hi> in the Iſle of <hi>Rhodes;</hi>
+                  </l>
+                  <l>Then adde a Brazen face, and Iron Hands,</l>
+                  <l>A poiſonous Vipers heart, and Leathern Lungs,</l>
+                  <l>A Tongue of Bell-mettal, and an Oſtrich-ſtomack</l>
+                  <l>To digeſt Iron, Let his Leggs and feet,</l>
+                  <l>Be made of Quick-ſilver half fixt, and when</l>
+                  <l>His outward Members are by curious Art,</l>
+                  <l>Fram'd out in ſuch dreadful Proportions.</l>
+                  <l>Then let the Furies in Hells dark Alembeck,</l>
+                  <l>With damned Chymiſtry extract the ſpirits</l>
+                  <l>Of ſecret Treaſon, curſed Sacriledge,</l>
+                  <l>Black murder, and falſe-hearted Perjury,</l>
+                  <l>Pride, Hatred, Luſt, and Swiniſh Luxury,</l>
+                  <l>Fraud, Drunkenneſſe, Oppreſſion, and the reſt</l>
+                  <pb n="6" facs="tcp:168822:5"/>
+                  <l>Of the black Progeny of Vice; and with</l>
+                  <l>The Quinteſſence of theſe, being ſublimated</l>
+                  <l>Unto the heighth of wickedneſs, Inform</l>
+                  <l>The ugly Maſs with a more ugly ſoul.</l>
+                  <l>And that the Monſter may not want a name,</l>
+                  <l>Say he's a Rumper, and we'll ſay the ſame.</l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
